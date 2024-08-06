@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/crud_chetak/';
+$config['base_url'] = 'https://vasusaini060.github.io/crud_cheta/';
 
 /*
 |--------------------------------------------------------------------------
